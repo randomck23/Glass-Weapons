@@ -1,0 +1,94 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Replace Sniper Body",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20body.obj"
+    },
+    {
+      "name": "Replace Sniper Scope Lens",
+      "replace_ids": [
+        14778413014
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20scope.obj"
+    },
+    {
+      "name": "Replace Sniper Scope Supports",
+      "replace_ids": [
+        13188893115
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20scope%20support.obj"
+    },
+    {
+      "name": "Replace Sniper Bolts Body",
+      "replace_ids": [
+        13188893017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20body%20bolts.obj"
+    },
+    {
+      "name": "Replace Sniper Barrels and Scope",
+      "replace_ids": [
+        14774727092
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20barrel.obj"
+    },
+    {
+      "name": "Replace Sniper Inner Bolt",
+      "replace_ids": [
+        13188892855
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20bolt%20inner.obj"
+    },
+    {
+      "name": "Replace Sniper Bolt Handle",
+      "replace_ids": [
+        13188893310
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20bolt%20handle.obj"
+    },
+    {
+      "name": "Replace Sniper Bullet",
+      "replace_ids": [
+        14002915797
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20bullet.obj"
+    },
+    {
+      "name": "Replace Sniper Inner Mag",
+      "replace_ids": [
+        13188892651
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20mag%20inner.obj"
+    },
+    {
+      "name": "Replace Sniper Mag Body",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20mag%20body.obj"
+    }
+  ]
+}

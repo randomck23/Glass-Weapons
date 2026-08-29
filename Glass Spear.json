@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body Replace",
+      "replace_ids": [
+        79215628363676
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/body.obj"
+    },
+    {
+      "name": "Tip Replace",
+      "replace_ids": [
+        76859780801582
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20tip.obj"
+    },
+    {
+      "name": "Metal Replace",
+      "replace_ids": [
+        106702607873813
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20metal%20pieces.obj"
+    },
+    {
+      "name": "Rope Replace",
+      "replace_ids": [
+        87127434278076
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20ropes.obj"
+    }
+  ]
+}

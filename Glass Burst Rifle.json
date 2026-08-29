@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Burst Rifle Body Replace",
+      "replace_ids": [
+        13236207101
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20body.obj"
+    },
+    {
+      "name": "Burst Rifle Irons Replace",
+      "replace_ids": [
+        14653273948
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20irons.obj"
+    },
+    {
+      "name": "Burst Rifle Bolts Replace",
+      "replace_ids": [
+        13236207230
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20bolts.obj"
+    },
+    {
+      "name": "Burst Rifle Upper Body Replace",
+      "replace_ids": [
+        13236207177
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20body%20upper.obj"
+    },
+    {
+      "name": "Burst Rifle Mag Body Replace",
+      "replace_ids": [
+        13236206914
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20mag%20body.obj"
+    },
+    {
+      "name": "Burst Rifle Mag Inner Replace",
+      "replace_ids": [
+        13236206962
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20burst%20mag%20inner.obj"
+    }
+  ]
+}

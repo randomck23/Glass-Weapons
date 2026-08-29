@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Glass Scythe Blade Replace",
+      "replace_ids": [
+        13753170893
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20scythe%20blade.obj"
+    },
+    {
+      "name": "Glass Scythe Handle Replace",
+      "replace_ids": [
+        13753170814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20scythe%20handle.obj"
+    }
+  ]
+}

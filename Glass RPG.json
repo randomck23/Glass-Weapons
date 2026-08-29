@@ -1,0 +1,49 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Glass RPG Fuse Replace",
+      "replace_ids": [
+        14782313490
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20rpg%20rocket%20body.obj"
+    },
+    {
+      "name": "Glass RPG Head Replace",
+      "replace_ids": [
+        14782313662
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20rpg%20rocket%20head.obj"
+    },
+    {
+      "name": "Glass RPG Rings Replace",
+      "replace_ids": [
+        13169490706
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20rpg%20rings.obj"
+    },
+    {
+      "name": "Glass RPG Wood Replace",
+      "replace_ids": [
+        13169490760
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20rpg%20wood.obj"
+    },
+    {
+      "name": "Glass RPG Body Replace",
+      "replace_ids": [
+        13189763234
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20rpg%20body.obj"
+    }
+  ]
+}

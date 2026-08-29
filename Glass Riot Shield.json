@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Glass Riot Body Replace",
+      "replace_ids": [
+        116193367281665
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20riot%20body.obj"
+    },
+    {
+      "name": "Glass Riot Edges Replace",
+      "replace_ids": [
+        105366735052924
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20riot%20edges.obj"
+    },
+    {
+      "name": "Glass Riot Window Replace",
+      "replace_ids": [
+        110079517522085
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20riot%20window.obj"
+    },
+    {
+      "name": "Glass Riot Bolts Replace",
+      "replace_ids": [
+        82949430589970
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20riot%20bolts.obj"
+    }
+  ]
+}

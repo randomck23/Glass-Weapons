@@ -1,0 +1,31 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Glass Jump Pad Triagnles Replace",
+      "replace_ids": [
+        17835823024
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20jump%20pad%20triangles.obj"
+    },
+    {
+      "name": "Glass Jump Pad Frame Replace",
+      "replace_ids": [
+        17835823121
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20jump%20pad%20frame.obj"
+    },
+    {
+      "name": "Glass Jump Pad Blue Replace",
+      "replace_ids": [
+        17835823211
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20jump%20pad%20glowy.obj"
+    }
+  ]
+}
