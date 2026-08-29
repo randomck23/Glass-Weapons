@@ -1,0 +1,58 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Bolts Replace",
+      "replace_ids": [
+        13158845253
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20bolts.obj"
+    },
+    {
+      "name": "Body Replace",
+      "replace_ids": [
+        13158844590
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20body.obj"
+    },
+    {
+      "name": "Other Replace",
+      "replace_ids": [
+        14781990942
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20upper.obj"
+    },
+    {
+      "name": "Shell Back Replace",
+      "replace_ids": [
+        14781979814
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20shell%20back.obj"
+    },
+    {
+      "name": "Shell Front Replace",
+      "replace_ids": [
+        14781979687
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20shell%20front.obj"
+    },
+    {
+      "name": "Pump Replace",
+      "replace_ids": [
+        13988956869
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/randomck23/Extras/raw/refs/heads/main/glass%20shotgun%20pump.obj"
+    }
+  ]
+}
